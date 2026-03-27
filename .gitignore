@@ -1,0 +1,52 @@
+# Dépendances
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build et distribution
+/dist/
+/build/
+/bundle.js
+*.bundle.js
+*.bundle.js.map
+
+# Fichiers générés par TypeScript
+*.js
+*.js.map
+*.d.ts
+!webpack.config.js
+!*.config.js
+
+# Environnement et IDE
+.env
+.env.local
+.env.*.local
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Fichiers spécifiques Babylon.js
+*.babylon
+*.gltf
+*.bin
+!public/assets/
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
