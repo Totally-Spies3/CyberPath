@@ -1,6 +1,6 @@
 # 3D-game-BABYLON-JS
 
-## LAMYAE & CHLOE => Comment recuperer le projet et installer les dépendances ???? TUTO
+## Comment recuperer le projet et installer les dépendances ???? TUTO
 <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/d7547674-d95e-4ea5-adc5-8c061f7dab42"  hspace="50" />
 <img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/ace7631f-77be-4c0d-bddf-44d046dfda9c" />
 
