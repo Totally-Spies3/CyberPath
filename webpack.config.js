@@ -49,7 +49,10 @@ module.exports = {
   
   // Serveur de développement
   devServer: {
-    static: './dist',
-    open: true // Ouvre le navigateur automatiquement
-  }
+    static: [
+        { directory: path.resolve(__dirname, 'dist') },   // les fichiers compilés
+        { directory: path.resolve(__dirname, 'public') }  // les assets statiques
+    ],
+    open: true
+}
 };
