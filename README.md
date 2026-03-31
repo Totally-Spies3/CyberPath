@@ -1,5 +1,43 @@
 # 3D-game-BABYLON-JS
 
+## LAMYAE & CHLOE => Comment recuperer le projet et installer les dépendances ???? TUTO
+<img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/d7547674-d95e-4ea5-adc5-8c061f7dab42"  hspace="50" />
+<img width="218" height="232" alt="image" src="https://github.com/user-attachments/assets/ace7631f-77be-4c0d-bddf-44d046dfda9c" />
+
+
+### Prérequis 
+- Installer Node.js (version 18 ou + recommandé) : https://nodejs.org/
+- **Avoir npm** (installé avec Node) ++++ 
+
+### cloner le projet sur VScode
+```powershell
+https://github.com/Totally-Spies3/CyberPath.git
+```
+
+### Installer les dépendances 
+```powershell
+npm install 
+```
+### Builder le projet 
+```powershell
+npm run build 
+```
+
+### Lancer le projet localement 
+```powershell
+npm run start 
+```
+> Normalement lorsque cette commande est lancée , les modifications du projet s'affiche automatiquement sur l'écran.   
+> **Ctrl + C** : arreter le "serveur" local 
+
+### Commentaire
+les instructions en dessous correspond a la documentation de comment j'ai créer le projet de 0 avec explication . lisez le une fois pour comprendre les differents fichier de config et respecter la structure de base d'un projet babylon js 
+
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
 ## I - Configuration du projet 
 ### 1 - Creation du projet 
 
